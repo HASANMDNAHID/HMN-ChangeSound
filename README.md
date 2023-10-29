@@ -1,2 +1,3 @@
-# HMN-ChangeSound
-FiveM Vehicle Sound Change
+# Installation Instructions:
+
+* add `ensure hmn-changesound` to your `server.cfg`
